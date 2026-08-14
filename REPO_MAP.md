@@ -1,6 +1,6 @@
 # Pinnacle-Configuration
 
-**Remote:** `git@github.com:SiliconCentric/Pinnacle-Configuration.git`
+**Remote:** `git@github.com:soccentric-pinnacle/Pinnacle-Configuration.git`
 **Parent project:** [Pinnacle](../Pinnacle.md) (target hardware: **NXP i.MX 8M/9**.)
 **Leaf type:** `<Project>-Configuration`
 **Status:** REAL — actively built out
